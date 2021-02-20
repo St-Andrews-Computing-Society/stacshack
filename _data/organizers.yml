@@ -1,14 +1,9 @@
 # The group organizing the event, and its legal stuff. Optional.
 group:
-  name: the Example Association
+  name: St Andrews Computing Society (STACS)
   # Either use 'link' for an external page (e.g. if you already have a website), ...
-  link:
+  link: https://www.yourunion.net/activities/societies/stacs/
   # ...or use the built-in /legal page and provide links to the statutes and general assembly minutes
-  statutes: http://example.com
-  assemblies:
-    January 1950 (Constitutive): http://example.org
-    January 2000: http://example.org
-
 # People organizing the event, and their websites.
 # See the ReadMe file for information on pictures.
 people:

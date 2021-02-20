@@ -3,14 +3,12 @@
 # Use an empty string ('') for the day names if you do not want headers.
 
 Saturday:
-  '7:30-9:30': Breakfast
-  '9:30-10:00': Opening ceremony
-  '10:20-12:00': Sponsors Presentation
-  '12:30-13:30': Lunch
-  '18:30-19:30': Dinner
+  '10:00-11:00': Sign in and welcome
+  '11-11:30': Opening ceremony
+  '11:30-12:00': Team Finding
+  '12:00': Hacking Begins!
 
 Sunday:
-  '0:00-1:00': Midnight snack
   '7:00-9:00': Breakfast
-  '11:30-12:30': Lunch
-  '15:00-17:00': Closing ceremony
+  '12:00': Hacking Stops
+  '13:00-16:00': Presentations and Closing Ceremony 

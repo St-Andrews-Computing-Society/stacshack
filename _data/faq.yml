@@ -5,15 +5,41 @@
 # - Use the weird |- syntax to allow answers to span lines.
 # - End lines with two spaces if you want to force a line break, otherwise the line break is ignored.
 
-- q: What is this?
+- q: What is Stacshack?
   a: |- 
-        An example website for this template.  
-        Isn't it awesome?
+        Stacshack is the annual student hackathon hosted by the St Andrews Unversity Computing
+        Society, where over 150 people gather each year to build something new. This event will
+        span a 24 hour period, from 12:00 on Saturday to 12:00 on Sunday.
 
-- q: Can I use it?
+- q: How is a Virtual Stacshack different?
   a: |-
-        Of course! Just comply with the license, i.e. credit the authors.
+        Stacshack will be entirely virtual this year, in line with University and Scottish
+        Government guidlines. We'll be hosting the event on discord, streaming our opening and
+        closing ceremony via Twitch. There'll be a variety of virtual activities to give you a
+        break from hacking, and we hope to keep the same light hearted atmosphere as the 
+        usual in person Stacshack!
 
-- q: Thank you!
+- q: Do I need to have a team before the event?
   a: |-
-        You're welcome!
+        No! Feel free to come as a single person, we'll help you out with finding a team!
+
+- q: Can I take part in Stacshack?
+  a: |-
+        Any and all students are welcome to particpate!
+
+- q: Is Stacshack free?
+  a: |-
+        Thanks to our sponsors, Stacshack is free for all particpants.
+
+- q: How many people can be on a team?
+  a: |-
+        Teams can be comprised of up to 4 people.
+
+- q: Can I work on my project before the event?
+  a: |-
+        To keep things fair, we only allow projects that have been started and completed within
+        the 24 hour period.
+
+- q: Somehow this great FAQ doesn't answer my question!
+  a: |-
+      Please get in touch at stacs(at)st-andrews.ac.uk
