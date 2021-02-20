@@ -5,15 +5,15 @@
 # - Use the weird |- syntax to allow answers to span lines.
 # - End lines with two spaces if you want to force a line break, otherwise the line break is ignored.
 
-- q: What is Stacshack?
+- q: What is StacsHack?
   a: |- 
-        Stacshack is the annual student hackathon hosted by the St Andrews Unversity Computing
+        StacsHack is the annual student hackathon hosted by the St Andrews Unversity Computing
         Society, where over 150 people gather each year to build something new. This event will
         span a 24 hour period, from 12:00 on Saturday to 12:00 on Sunday.
 
-- q: How is a Virtual Stacshack different?
+- q: How is a Virtual StacsHack different?
   a: |-
-        Stacshack will be entirely virtual this year, in line with University and Scottish
+        StacsHack will be entirely virtual this year, in line with University and Scottish
         Government guidlines. We'll be hosting the event on discord, streaming our opening and
         closing ceremony via Twitch. There'll be a variety of virtual activities to give you a
         break from hacking, and we hope to keep the same light hearted atmosphere as the 
@@ -23,13 +23,13 @@
   a: |-
         No! Feel free to come as a single person, we'll help you out with finding a team!
 
-- q: Can I take part in Stacshack?
+- q: Can I take part in StacsHack?
   a: |-
         Any and all students are welcome to particpate!
 
-- q: Is Stacshack free?
+- q: Is StacsHack free?
   a: |-
-        Thanks to our sponsors, Stacshack is free for all particpants.
+        Thanks to our sponsors, StacsHack is free for all particpants.
 
 - q: How many people can be on a team?
   a: |-

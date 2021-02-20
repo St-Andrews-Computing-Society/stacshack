@@ -1,5 +1,5 @@
 # Event name
-name: Stacshack 2021
+name: StacsHack 2021
 
 # Event date, in free-text format
 date: March 13-14
@@ -20,8 +20,8 @@ description_long: |-
 email: stacs(at)st-andrews.ac.uk
 
 # Social networks. Twitter is optional, but you really should have a Facebook page.
-facebook: https://www.facebook.com/StACompSoc
-twitter: https://twitter.com/StACompSoc 
+facebook: StACompSoc
+twitter: StACompSoc 
 
 # Accent color of the website
 color: '#6497b1'
