@@ -6,19 +6,19 @@ group:
   # ...or use the built-in /legal page and provide links to the statutes and general assembly minutes
 # People organizing the event, and their websites.
 # See the ReadMe file for information on pictures.
-people:
-  - first: Alice
-    last: Example
-    link: http://example.org
+#people:
+#  - first: Alice
+#    last: Example
+#    link: http://example.org
   
-  - first: Bob
-    last: Example
-    link: http://example.org
+  #  - first: Bob
+  #  last: Example
+  #  link: http://example.org
 
-  - first: Carol
-    last: Example
-    link: http://example.org
+  #- first: Carol
+  #  last: Example
+  #  link: http://example.org
 
-  - first: Daniel
-    last: Example
-    link: http://example.org
+  #- first: Daniel
+  #  last: Example
+  #  link: http://example.org
