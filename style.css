@@ -122,8 +122,8 @@ tr {
 }
 
 .header img {
-  max-width: 30%;
-  max-height: auto;
+  max-width: 50%;
+  width: 50%;
   margin: 5em auto 0 auto;
 }
 
