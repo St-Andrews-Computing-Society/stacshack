@@ -17,8 +17,8 @@ tiers:
     show_title: true
     color: rgba(212,175,55,0.12)
     size: 42
-    # sponsors:
-    #  Gold Example One: http://example.org
+    sponsors:
+      Gold Example One: http://example.org
     #  Gold Example Two: http://example.org
 
   Silver Sponsors:
