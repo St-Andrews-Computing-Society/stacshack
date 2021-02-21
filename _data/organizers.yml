@@ -1,6 +1,6 @@
 # The group organizing the event, and its legal stuff. Optional.
-group:
-  name: St Andrews Computing Society (STACS)
+#group:
+  #name: St Andrews Computing Society (STACS)
   # Either use 'link' for an external page (e.g. if you already have a website), ...
   # link: https://www.yourunion.net/activities/societies/stacs/
   # ...or use the built-in /legal page and provide links to the statutes and general assembly minutes
