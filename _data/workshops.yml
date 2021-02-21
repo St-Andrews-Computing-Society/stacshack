@@ -1,10 +1,10 @@
 # Workshops around the event, optional.
 
 # Workshops name
-name: Example Workshops
+# name: Example Workshops
 
 # Workshops description
-description: Join us for short workshops!
+# description: Join us for short workshops!
 
 # Newsletter for workshops using MailChimp
 # Get those from the MailChimp embed - the form action and the 'real people should not fill this' input name
