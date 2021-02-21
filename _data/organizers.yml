@@ -9,20 +9,20 @@
 people:
   - first: Ewan
     last: Gilligan
-  #  link: http://example.org
+    link: https://www.linkedin.com/in/ewan-gilligan-546389174/
   
   - first: Rupert
     last: Carr
-  #  link: http://example.org
+    link: https://www.linkedin.com/in/rupert-carr-4b88241b6/
 
   - first: Rhona
     last: McCracken
-  #  link: http://example.org
+    link: https://www.linkedin.com/in/rhona-mccracken-st-andrews/
 
   - first: Kanishk
     last: Ali Khanna
-  #  link: http://example.org
+    link: http://linkedin.com/in/kanishk-ali-khanna
 
   - first: Aryan
     last: Singh
-  #  link: http://example.org
+    link: https://www.linkedin.com/in/aryansingh01/
