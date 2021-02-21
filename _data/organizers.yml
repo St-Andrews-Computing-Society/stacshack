@@ -7,22 +7,22 @@
 # People organizing the event, and their websites.
 # See the ReadMe file for information on pictures.
 people:
- - first: Ewan
-   last: Gilligan
+  - first: Ewan
+    last: Gilligan
   #  link: http://example.org
   
-   - first: Rupert
-   last: Carr
+  - first: Rupert
+    last: Carr
   #  link: http://example.org
 
   - first: Rhona
-   last: McCracken
+    last: McCracken
   #  link: http://example.org
 
   - first: Kanishk
-   last: Ali Khanna
+    last: Ali Khanna
   #  link: http://example.org
 
   - first: Aryan
-   last: Singh
+    last: Singh
   #  link: http://example.org
