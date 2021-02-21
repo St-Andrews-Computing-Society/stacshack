@@ -2,7 +2,7 @@
 group:
   name: St Andrews Computing Society (STACS)
   # Either use 'link' for an external page (e.g. if you already have a website), ...
-  link: https://www.yourunion.net/activities/societies/stacs/
+  # link: https://www.yourunion.net/activities/societies/stacs/
   # ...or use the built-in /legal page and provide links to the statutes and general assembly minutes
 # People organizing the event, and their websites.
 # See the ReadMe file for information on pictures.
