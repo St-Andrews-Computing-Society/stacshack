@@ -123,6 +123,7 @@ tr {
 
 .header img {
   max-width: 70%;
+  max-height: 40%;
   margin: 5em auto 0 auto;
 }
 
