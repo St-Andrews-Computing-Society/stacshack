@@ -15,12 +15,12 @@ tiers:
   #     Gold Example One: http://example.org
   #   #  Gold Example Two: http://example.org
 
-  # Silver Sponsors:
-  #   show_title: true
-  #   color: rgba(192,192,192,0.18)
-  #   size: 32
-  #   #sponsors:
-  #       #  Silver Example One: http://example.org
+  Bronze Sponsors:
+    show_title: true
+    color: rgba(192,192,192,0.18)
+    size: 32
+    sponsors:
+         NCR: https://www.ncr.com/
   Partners:
     show_title: true
     size: 30
