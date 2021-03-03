@@ -1,5 +1,5 @@
 # Call to action, optional.
 # If the link is set, the call will appear as a button.
 
-text: Tickets out soon!
-# link: http://example.org
+text: Tickets out now!
+link: https://www.eventbrite.com/myevent?eid=143856938977
