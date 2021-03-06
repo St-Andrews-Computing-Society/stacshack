@@ -14,11 +14,18 @@ tiers:
     sponsors:
       AmericanExpress: https://www.americanexpress.com/uk/
       Bloomberg: https://www.bloomberg.com/europe
+      
+  Silver Sponsors:
+    show_title: true
+    color: rgba(192,192,192,0.18)
+    size: 26
+    sponsors:
+         TPP: https://www.tpp-uk.com/
 
   Bronze Sponsors:
     show_title: true
     color: rgba(192,192,192,0.18)
-    size: 26
+    size: 23
     sponsors:
          NCR: https://www.ncr.com/
   Partners:
