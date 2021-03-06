@@ -129,7 +129,8 @@ layout: default
 
     <div class="item-large">
       <a href="{{ sponsor[1] }}" rel="noreferrer">
-        <img src="{{ file_img }}" alt="{{ tier[0] }} - {{ sponsor[0] }}" style="height: {{ tier[1].size }}vh">
+        <img src="{{ file_img }}" alt="{{ tier[0] }} - {{ sponsor[0] }}"
+          style="height: {{ tier[1].size }}vh; max-width: 50%;">
       </a>
     </div>
     {% endfor %}
