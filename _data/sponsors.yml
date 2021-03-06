@@ -10,7 +10,7 @@ tiers:
   Gold Sponsors:
     show_title: true
     color: rgba(212,175,55,0.12)
-    size: 42
+    size: 30
     sponsors:
       AmericanExpress: https://www.americanexpress.com/uk/
       Bloomberg: https://www.bloomberg.com/europe
@@ -18,17 +18,17 @@ tiers:
   Bronze Sponsors:
     show_title: true
     color: rgba(192,192,192,0.18)
-    size: 32
+    size: 26
     sponsors:
          NCR: https://www.ncr.com/
   Partners:
     show_title: true
-    size: 30
+    size: 20
     sponsors:
         HackathonsUK: https://hackathons.org.uk/
 
   Resource Partners:
     show_title: true
-    size: 30
+    size: 20
     sponsors:
         EchoAR: https://www.echoar.xyz/
